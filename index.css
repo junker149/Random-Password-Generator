@@ -1,0 +1,85 @@
+body {
+    margin: 40px;
+    background-color: #1F2937;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 370px;
+}
+
+#head1-el{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#head2-el{
+    color: #10B981;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#subheading-el{
+    font-size: 15px;
+    color: #D5D4D8;
+}
+
+button{
+    background-color: #10B981;
+    border: none;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 4px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#linebreak-el{
+    background-color: #2F3E53;
+    width: 100px;
+}
+
+#container-el{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#pass1-el{
+    display: flex;
+    width: 170px;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    color: #55F991;
+}
+
+#pass2-el{
+    display: flex;
+    width: 170px;
+    height: 25px;
+    background-color: #273549;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    color: #55F991;
+}
+
+#passLengthContainer-el{
+    display: flex;
+    align-items: center;
+}
+
+#setPass-el {
+    font-size: 15px;
+    color: #D5D4D8;
+}
+
+#input-el {
+    margin-left: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 50px;
+}
